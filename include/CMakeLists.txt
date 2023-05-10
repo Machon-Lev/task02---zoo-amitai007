@@ -1,0 +1,1 @@
+target_include_directories (Ex05_Zoo PRIVATE ${CMAKE_CURRENT_LIST_DIR})
